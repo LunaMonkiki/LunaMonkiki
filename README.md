@@ -4,4 +4,4 @@
   
 <h2> Active Directory Home Lab </h2>
 
-<h2> Comptia Security+ </h2>
+<h2> Cybersecurity Certifications </h2>
