@@ -2,6 +2,6 @@
 
 - [Cybersecurity Projects:]
   
-<h3> Active Directory Home Lab </h3>
+<h2> Active Directory Home Lab </h2>
 
-<h4> Comptia Security+ </h4>
+<h2> Comptia Security+ </h2>
